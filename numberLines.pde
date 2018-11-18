@@ -18,10 +18,9 @@ void setup() {
 void draw() {
   noLoop();
   noFill();
-  //rect(pad, pad, width-2*pad, height-2*pad);
+  background(255);
 
   translate(pad, pad + pHeight /2);
-
 
   for (Line nl : lines) {
     nl.render();
