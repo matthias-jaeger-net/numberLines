@@ -3,4 +3,4 @@
 
 
 ## Example input images
-![out](out/out.jpg)
+![out](out/numberLines.jpg)
