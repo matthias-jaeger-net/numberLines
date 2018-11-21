@@ -1,5 +1,5 @@
 float pad = 50.0;
-int numLines = 200;
+int numLines = 60;
 
 void setup() {
   size(800, 800);
